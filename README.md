@@ -4,4 +4,6 @@
 ![2025-05-14 224108 (1)](https://github.com/user-attachments/assets/366fa5fe-bf6a-4773-a236-e46ddaf0bd37)
 
 ## ERD
-![2025-04-28 195059](https://github.com/user-attachments/assets/d040f11c-7da2-4f04-9d9c-9fb04b472303)
+![스크린샷 2025-05-14 234817](https://github.com/user-attachments/assets/a716d4a6-6910-4085-bd2d-a2305b3d17eb)
+
+
